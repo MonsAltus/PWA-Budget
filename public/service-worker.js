@@ -8,7 +8,7 @@ const FILES_TO_CACHE = [
   "/index.html",
   "/index.js",
   "/manifest.webmanifest",
-  "/service-worker.js",
+  // "/service-worker.js",
   "/styles.css"
 ];
 
