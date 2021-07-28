@@ -20,6 +20,7 @@ A simple budgeting app for use in cases of unrealiable data connections. The use
 - SO THAT my account balance is accurate when I am traveling
 
 ## Usage:
+[Link to deployed app on Heroku.](https://whispering-river-92551.herokuapp.com/) <br>
 Application preview:<br>
 ![Image of app functionality](./assets/preview1.png)<br>
 
